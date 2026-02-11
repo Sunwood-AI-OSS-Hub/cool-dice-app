@@ -2,7 +2,11 @@
 
 A cool and rich 3D dice roller application with beautiful animations and statistics tracking.
 
-![Cool Dice App](https://img.shields.io/badge/SvelteKit-5.0-ff3e00) ![Three.js](https://img.shields.io/badge/Three.js-0.182-000000) ![License](https://img.shields.io/badge/license-MIT-blue)
+![Cool Dice App](https://img.shields.io/badge/SvelteKit-5.0-ff3e00) ![Three.js](https://img.shields.io/badge/Three.js-0.182-000000) ![License](https://img.shields.io/badge/license-MIT-blue) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-deployed-2491ED)
+
+## 🚀 Live Demo
+
+**[https://sunwood-ai-oss-hub.github.io/cool-dice-app/](https://sunwood-ai-oss-hub.github.io/cool-dice-app/)**
 
 ## Features
 
@@ -20,6 +24,7 @@ A cool and rich 3D dice roller application with beautiful animations and statist
 - **Physics**: Cannon-es
 - **Language**: TypeScript
 - **Styling**: Svelte CSS with modern CSS features
+- **Deployment**: GitHub Pages
 
 ## Getting Started
 
@@ -48,12 +53,6 @@ npm run build
 ```bash
 npm run preview
 ```
-
-## Deployment
-
-This app is configured for Vercel deployment. Click the button below to deploy:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Sunwood-AI-OSS-Hub/cool-dice-app)
 
 ## Usage
 
