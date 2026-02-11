@@ -2,6 +2,8 @@
 	import Dice3D from '$lib/components/Dice3D.svelte';
 	import { diceStore } from '$lib/stores/dice';
 
+	export const prerender = true;
+
 	let diceType: 'd6' | 'd20' = 'd6';
 	let rolling = false;
 	let lastResult = 0;
